@@ -130,16 +130,6 @@ streamlit run app.py
 
 ---
 
-## 📈 Future Improvements
-
-- ✅ Incorporate **deep learning models** (e.g., Autoencoders)
-- ✅ Add **user registration and login**
-- ✅ Implement **real-time feedback loops**
-- ✅ Include **movie posters and trailers**
-- ✅ Add **explainable AI (XAI)** features to explain recommendations
-- ✅ Enable **cross-domain recommendations** (e.g., books, music)
-
----
 
 ## 📃 Deliverables
 
@@ -150,12 +140,6 @@ streamlit run app.py
 - `app.py`: Streamlit application
 - `evaluation_report.md`: Model performance and analysis
 
----
-
-## 🔗 References
-
-- 📚 [MovieLens GroupLens](https://en.wikipedia.org/wiki/GroupLens_Research)  
-- 📘 [Hybrid Recommender Survey (JAIT)](https://www.jait.us/uploadfile/2021/0719/20210719052408995.pdf)
 
 ---
 
