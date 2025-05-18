@@ -6,6 +6,11 @@ This project aims to build a **hybrid recommendation system** that intelligently
 
 ---
 
+## Active App
+https://3ewfu4krwztyrsiukqm99w.streamlit.app/
+
+---
+
 ## 📊 Features
 
 ✅ Personalized recommendations using hybrid techniques  
